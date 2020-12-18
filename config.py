@@ -15,7 +15,7 @@ Parameters required for connecting to the database (DB) :
 
 """
 
-DB_HOST = ""
-DB_USER = ""
-DB_PASSWORD = ""
-DB_NAME = ""
+DB_HOST = "localhost"
+DB_USER = "root"
+DB_PASSWORD = "a8ln17a8ln17"
+DB_NAME = "OFF"
