@@ -1,4 +1,5 @@
 """This file contains elements for connecting to mysql."""
+
 import config
 import mysql.connector
 

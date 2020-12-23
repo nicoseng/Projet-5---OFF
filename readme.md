@@ -1,6 +1,6 @@
 # Projet 5 : Utilisez les données publiques de l'OpenFoodFacts(OFF)
 
-Dépot Github : (mettre le lien ici)
+Dépot Github : https://github.com/nicoseng/Projet-5-OFF
 Programme rédigé sous Python3. Projet sous Virtual Env et Git
 
 # I°) Préparez l’environnement virtuel de développement
@@ -8,7 +8,7 @@ Programme rédigé sous Python3. Projet sous Virtual Env et Git
 1.	Installez un environnement virtuel de développement depuis votre terminal. (python3 –m venv env) ;
 2.	Activez l’environnement virtuel en tapant source env/bin/activate. Une mention (env) s’affiche à gauche de votre console.
 
-# II°) Configurez son projet 
+# II°) Configurez votre projet 
 
 1.	 Dans le fichier intitulé config.py, remplissez les constantes suivantes avec vos propres identifiants (conservez les guillemets ""):
 	 - DB_HOST = "Nom de votre serveur abritant votre base de données" ;

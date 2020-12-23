@@ -456,7 +456,7 @@ class UserInterface:
                             id_substitute:
 
                         print("Cette combinaison produit/substitut"
-                              "existe déjà dans votre panier.")
+                              " existe déjà dans votre panier.")
 
             elif record_choice == "n":
 

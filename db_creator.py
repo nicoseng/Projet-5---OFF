@@ -55,7 +55,7 @@ class DbCreator:
         """
         self.db_connector.cursor.execute("CREATE TABLE IF NOT EXISTS product\
             (id_product INT NOT NULL AUTO_INCREMENT,\
-            product_name VARCHAR(500) NOT NULL,\
+            product_name VARCHAR(500) CHARACTER SET utf8 NOT NULL,\
             nutriscore VARCHAR(50),\
             url VARCHAR(500),\
             PRIMARY KEY (id_product))\
